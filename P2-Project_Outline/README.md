@@ -7,12 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Can't Decide Where To Go? We got you! Our travel app helps you research destinations using your personlized interests. This app offers various features wether searching for a local tourist spot,unique experiences,adventure activities,top hotel and airline deals or formulating a map for a road trip. You can also check the weather along your route to prepare for any type of journey. We offer trip reviews to help you decide where to go and which place helps fulfill your bucket list.
 ### Features
-Include Features here
+Authentication/ user login: User will be able to create a profile and log in.
+Weather forcasting: User can check on the weather of places they would like to visit.
+Search: User will be able to search for tourist destinations,activities, and other accomodations such as airfare and hotel.
+Maps: User can see how far destinations are and how long it takes to travel there.
+Database: Store information 
 ### Technologies
-Include Technologies here
+C#/.NET
+Bootstrap
+MySql
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to write a app from start to finish. How to use Authentication and to implement public APIs.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/J34qr4nR/group-robin
